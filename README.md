@@ -11,5 +11,6 @@ I'm a technical writer. I write technical documentation.
 - Jira, Confluence
 - Figma, ShareX
 - React.js for Docusaurus customizations
+- Python (beginner)
 
   
