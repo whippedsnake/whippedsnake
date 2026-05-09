@@ -1,5 +1,15 @@
-## Hello, friend👋
+# Hello, friend
 
-I'm a technical writer. 
-Currently I learn programming with Python. 
-I also know some bits about Docker and interested in learning all about networking...
+I'm a technical writer. I write technical documentation. 
+
+
+## ➕ Instruments
+- Markdown, reStructuredText
+- Docusaurus, Sphinx, Hugo
+- Git (rebase in local branches, cherry-pick, resolving merge-conflicts, peer review)
+- Docker
+- Jira, Confluence
+- Figma, ShareX
+- React.js for Docusaurus customizations
+
+  
