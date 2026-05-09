@@ -1,6 +1,4 @@
-# Hello, friend
-
-I'm a technical writer. I write technical documentation. 
+# I'm a technical writer. I write docs. 
 
 
 ## ➕ Instruments
